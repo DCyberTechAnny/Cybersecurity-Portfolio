@@ -39,7 +39,8 @@ Category: Web Exploitation | Difficulty: Easy | Status: Completed
 Investigated a vulnerable web application, identified exposed authentication sessions, and demonstrated session hijacking using Microsoft Edge Developer Tools.
 
 Skills Demonstrated: Cookie Analysis, Session Management, Web Application Security, Vulnerability Identification
-CTF-Writeups/Old-Sessions/README.md 
+
+[View Full Lab Report](CTF-Writeups/Old-Sessions/README.md)
 
 ## Education
 
