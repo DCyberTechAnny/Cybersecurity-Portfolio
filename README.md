@@ -34,13 +34,12 @@ My goal is to transition into the cybersecurity industry, applying my military e
 
 ### 1. picoCTF 2026 — Old Sessions
 
-**Category:** Web Exploitation
+Category: Web Exploitation | Difficulty: Easy | Status: Completed
 
-Investigated a vulnerable web application and identified exposed authentication sessions. Used browser Developer Tools to analyze cookies and demonstrate session hijacking in an authorized training environment.
+Investigated a vulnerable web application, identified exposed authentication sessions, and demonstrated session hijacking using Microsoft Edge Developer Tools.
 
-**Skills Demonstrated:** Web Security, Session Management, Cookie Analysis, Vulnerability Identification
-
-*Detailed project write-up coming soon.*
+Skills Demonstrated: Cookie Analysis, Session Management, Web Application Security, Vulnerability Identification
+CTF-Writeups/Old-Sessions/README.md 
 
 ## Education
 
