@@ -37,8 +37,30 @@ Within the authorized CTF environment, I replaced my session cookie with the exp
 My initial attempt failed because I accidentally included a comma at the end of the identifier. After correcting the formatting, the application accepted the session and granted administrator access.
 
 ### 5. Results
-
 Successfully completed the challenge and retrieved the flag.
+
+## Lab Screenshots
+
+### Initial Login Page
+![Login page](screenshots/LOGIN-PAGE.png)
+
+### Authentication Cookie Inspection
+![Cookie inspection](screenshots/COOKIE-INSPECTION.png)
+
+### Exposed Sessions Endpoint
+![Sessions endpoint with tokens redacted](screenshots/SESSIONS-ENDPOINT.png)
+
+### Flag Submitted
+![Flag Submitted](screenshots/FLAG-SUBMITTED.png)
+
+### Successful Administrator Session
+
+![Successful administrator session](screenshots/ADMIN-SESSION-SUCCESS.png)
+
+**Figure 1:** Successful administrator authentication
+after replacing the original session cookie with an
+exposed administrator session identifier. Sensitive
+authentication information has been redacted.
 
 ## Vulnerability Identified
 
