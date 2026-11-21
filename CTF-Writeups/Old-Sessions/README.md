@@ -57,7 +57,7 @@ Successfully completed the challenge and retrieved the flag.
 
 ![Successful administrator session](screenshots/ADMIN-SESSION-SUCCESS.png)
 
-**Figure 1:** Successful administrator authentication
+**Figure 5:** Successful administrator authentication
 after replacing the original session cookie with an
 exposed administrator session identifier. Sensitive
 authentication information has been redacted.
